@@ -1,0 +1,2 @@
+{"Outlet Title": "Module 1", "Code Type": "ON Code", "Code": "1010101110101010110011001", "Up Time for Logic High": 0.00022, "Down Time for Logic High": 0.0005, "Up Time for Logic Low": 0.00059, "Down Time for Logic Low": 0.00014, "Time between Codes": 0.00607}
+{"Outlet Title": "Module 1", "Code Type": "OFF Code", "Code": "1010101110101010110000111", "Up Time for Logic High": 0.00023, "Down Time for Logic High": 0.0005, "Up Time for Logic Low": 0.00059, "Down Time for Logic Low": 0.00014, "Time between Codes": 0.00571}
